@@ -1,1 +1,1 @@
-# tailwindrecipes.github.io
+# TailwindProject.github.io
